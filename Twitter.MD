@@ -6,11 +6,12 @@ Since then, I have dipped my toes back in.  In Facebook, I had limited people th
 
 Twitter though, it was a cesspool.  So after looking at it for a day, I stayed away, and have not been back until Thanksgiving of 2022.  At that point, I was doing more work on internet presence, and I decided to backup my Twitter profile, because with everything that was going on over there, I didn't know if I would be able to after a while.  While doing that, I looked again.  It was even less usable then before.  
 
-I had created a fosstodan.org account back in April, as I wanted to try out this new platform that was different.  Smaller.  Segmented, yet not.  Admittedly, after gettting on I couldn't figure it out quickly and said to myself "I don't need to get wrapped up in any social media again", and I left it unused.  Now that I was seeing Twitter implode, I thought it might be time to look at fosstodon again.  This time, I didn't see what had given me pause before.  
+I had created a fosstodan.org account back in April, as I wanted to try out this new platform that was different.  Smaller.  Segmented, yet not.  Admittedly, after gettting on I couldn't figure it out quickly and said to myself "I don't need to get wrapped up in any social media again", and I left it unused.  Now that I was seeing Twitter implode, I thought it might be time to look at fosstodon again.  This time, I didn't see what had given me pause before.  In Feb 2023, I branched out and opened a mastodon.social account and began following a differnt crowd, with with the thought that I could see how this appealed.  
 
-As of now, I am keeping the twitter account, but have decided that I don't think I will use it for posting any longer.  I reserve the right to change my mind, but most of what I see is not something I want to participate in.  So, for the mean time, if I post, it will be at fosstodon.
+As of Tuesday, September 19, 2023, I have deleted my Twitter/X account as I have no intention of ever going back, and it keeps getting worse and worse.
 
 I plan on fleshing out this repo to keep stuff current, and clean up this message, among other things.  
 
 
 @drhaywardj@fosstodon.org
+@drhaywardj@mastodon.social
